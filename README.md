@@ -34,6 +34,6 @@ Close the window to terminate the program.
 
 ## screenshots 
 1. Initial
-   ![Initial](https://github.com/user-attachments/assets/ec31742f-412e-43d3-930e-ae4cc585fe33)
+   ![Initial](https://github.com/user-attachments/assets/7b615017-0cd1-490a-89de-7de09214da08)
 2. Final
    ![Final](https://github.com/user-attachments/assets/2402b37d-2572-4058-82fe-217015c383f6)
