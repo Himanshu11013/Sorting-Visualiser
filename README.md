@@ -26,7 +26,8 @@ The visualization window will open, showing a randomized set of numbers represen
 Watch as the chosen sorting algorithm visually sorts the lines.
 
 Features
-Bubble Sort: A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
-Merge Sort: A divide-and-conquer algorithm that divides the array into halves, recursively sorts each half, and then merges the sorted halves.
+1. Bubble Sort: A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
+
+2. Merge Sort: A divide-and-conquer algorithm that divides the array into halves, recursively sorts each half, and then merges the sorted halves.
 Controls
 Close the window to terminate the program.
