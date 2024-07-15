@@ -31,3 +31,9 @@ Features
 2. Merge Sort: A divide-and-conquer algorithm that divides the array into halves, recursively sorts each half, and then merges the sorted halves.
 Controls
 Close the window to terminate the program.
+
+## screenshots 
+1. Initial
+   ![Initial](https://github.com/user-attachments/assets/ec31742f-412e-43d3-930e-ae4cc585fe33)
+2. Final
+   ![Final](https://github.com/user-attachments/assets/2402b37d-2572-4058-82fe-217015c383f6)
